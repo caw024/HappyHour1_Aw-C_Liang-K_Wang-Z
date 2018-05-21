@@ -1,1 +1,1 @@
-# HappyHour
+# Team HappyHour
